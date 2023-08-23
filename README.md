@@ -6,7 +6,8 @@ This repo is for progress tracking and sharing
 
 ### Cryptography
 - Scramble / Shuffle
-  - Reference: [quipqiup.com](https://www.quipqiup.com/)
+  - References:
+    - [quipqiup.com](https://www.quipqiup.com/)
 - Decoding
   - Caeser / Rail Fence Cipher / Vigenere Cipher / ROT13
   - References:
