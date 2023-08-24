@@ -7,7 +7,7 @@ This repo is for progress tracking and sharing
 ### Cryptography
 - Scramble / Shuffle / Substitution
     - [quipqiup.com](https://www.quipqiup.com/)
-    - [duballa.de](https://www.guballa.de/)
+    - [guballa.de](https://www.guballa.de/)
 - Decoding
   - Caeser / Rail Fence Cipher / Vigenere Cipher / ROT13
     - [cryptii.com](https://cryptii.com/)
