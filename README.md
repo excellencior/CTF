@@ -13,6 +13,5 @@ This repo is for progress tracking and sharing
     - [cryptii.com](https://cryptii.com/)
     - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/)
     - [aperisolve.com](https://www.aperisolve.com/)
-   
-- atbash decode / steganography
-    - [bash cmd] steghide extract -sf filename
+- atbash / steganography
+    - steghide extract -sf filename
