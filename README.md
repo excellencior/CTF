@@ -15,3 +15,4 @@ This repo is for progress tracking and sharing
     - [aperisolve.com](https://www.aperisolve.com/)
   - atbash / steganography
     - steghide extract -sf filename
+    - Hint: Look for a "paraphrase" if avaiable
