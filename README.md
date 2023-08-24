@@ -5,8 +5,9 @@ This repo is for progress tracking and sharing
 - Learned about the very basics of using online tools.
 
 ### Cryptography
-- Scramble / Shuffle
+- Scramble / Shuffle / Substitution
     - [quipqiup.com](https://www.quipqiup.com/)
+    - [duballa.de](https://www.guballa.de/)
 - Decoding
   - Caeser / Rail Fence Cipher / Vigenere Cipher / ROT13
     - [cryptii.com](https://cryptii.com/)
