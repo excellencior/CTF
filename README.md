@@ -14,5 +14,5 @@ This repo is for progress tracking and sharing
     - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/)
     - [aperisolve.com](https://www.aperisolve.com/)
   - atbash / steganography
-    - steghide extract -sf filename
+    - **steghide extract -sf filename**
     - Hint: Look for a "paraphrase" if avaiable
